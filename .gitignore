@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+clinical_slm_lora/
+clinical_slm_lora_final/
+submission.csv
+test_questions_with_context.csv

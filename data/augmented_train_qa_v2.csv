@@ -1,0 +1,142 @@
+question,topic,care_setting,population,document_id,reference_answer,QuestionId
+BP readings improved — skip tablets this weekend?,chronic_disease,primary_care,adult,doc_chr_002,No — never stop antihypertensives abruptly without clinician review.,1
+Pregnant and always tired — common workup?,maternal_health,primary_care,pregnant,doc_mat_003,Screen for anaemia and treat with iron plus dietary support.,2
+When should someone with flu-like symptoms stay home?,infectious_disease,community,general,doc_inf_002,While febrile to reduce spread at school or work.,3
+How do I manage type 2 diabetes day to day?,chronic_disease,primary_care,adult,doc_chr_001,"Balance meals, stay active, take medicines as prescribed, and monitor glucose as directed.",4
+Feverish toddler — paracetamol cautions?,medication_safety,home,child,doc_med_003,Use weight-based doses and avoid exceeding daily maximums.,5
+Can I stop antibiotics when I feel better?,medication_safety,primary_care,general,doc_med_001,Finish the full course unless a clinician tells you to stop.,6
+When does child diarrhoea need facility care?,emergency_triage,primary_care,child,doc_emg_003,"Unable to drink, sunken eyes, little urine, blood in stool, or persistent vomiting.",7
+How long should exclusive breastfeeding last?,nutrition,community,infant,doc_nut_001,"First six months, then add complementary foods while continuing breastfeeding.",8
+Should I stop antimalarials when fever goes down?,infectious_disease,community,general,doc_inf_001,Complete the full prescribed course.,9
+How many antenatal visits are recommended?,maternal_health,primary_care,pregnant,doc_mat_001,"At least eight contacts with BP, anaemia screening, and growth checks.",10
+Coughing colleague at work — hygiene advice?,infectious_disease,community,general,doc_inf_002,"Cover coughs, wash hands, and stay home if febrile.",11
+When is low mood worth professional help?,mental_health_basics,primary_care,adult,doc_men_002,Most days for two weeks with work or relationship interference.,12
+Chest pain that needs emergency care?,emergency_triage,hospital,adult,doc_emg_002,"Crushing pain, radiation to jaw or arm, or pain with breathlessness.",13
+Newborn feeding — anything besides formula before six months?,nutrition,community,infant,doc_nut_001,Exclusive breastfeeding is recommended for the first six months.,14
+Can I stop blood pressure pills if readings look normal?,chronic_disease,primary_care,adult,doc_chr_002,No — do not stop abruptly without clinician review.,15
+Heavy bleeding one week after delivery?,maternal_health,primary_care,pregnant,doc_mat_002,Seek care immediately for heavy postpartum bleeding.,16
+Tips for better sleep during stress?,mental_health_basics,home,adult,doc_men_001,"Regular sleep times, less evening screen use, cool dark room, relaxation breathing.",17
+Why keep a child immunisation card?,vaccination,primary_care,child,doc_vac_001,"Documents doses for school entry, travel, and catch-up planning.",18
+Racing thoughts at bedtime — non-drug tips?,mental_health_basics,home,adult,doc_men_001,"Consistent schedule, limit screens, and use relaxation breathing.",19
+Stepped on a rusty nail — tetanus question?,vaccination,primary_care,adult,doc_vac_003,Clean the wound and get tetanus booster if status uncertain.,20
+Preventing micronutrient gaps in children?,nutrition,primary_care,child,doc_nut_003,Varied diet plus programme supplements like vitamin A where recommended.,21
+First treatment for child diarrhoea?,infectious_disease,community,child,doc_inf_003,Oral rehydration solution to prevent dehydration.,22
+Plate looks mostly rice and meat — healthier split?,nutrition,community,adult,doc_nut_002,"Half produce, quarter whole grains, quarter protein.",23
+What belongs in a child asthma action plan?,chronic_disease,primary_care,child,doc_chr_003,"Daily controller inhaler use, reliever instructions, and trigger avoidance.",24
+Sad most days for a month — threshold for help?,mental_health_basics,primary_care,adult,doc_men_002,Two weeks of most-day low mood affecting daily function warrants support.,25
+Tight chest and short of breath — action?,emergency_triage,hospital,adult,doc_emg_002,Call emergency services; may be a cardiac emergency.,26
+ORS not accepted by sick child — next step?,emergency_triage,primary_care,child,doc_emg_003,Escalate if unable to drink or dehydration signs appear.,27
+Missed measles dose at nine months — options?,vaccination,primary_care,child,doc_vac_002,Follow the national catch-up schedule for missed doses.,28
+How to help an anxious teen missing school?,mental_health_basics,school,child,doc_men_003,"Validate feelings, keep routines, refer if avoidance blocks attendance.",29
+Best handwashing practice?,infectious_disease,community,general,doc_inf_002,Soap for at least twenty seconds before eating and after toilet use.,30
+Paracetamol safety for children?,medication_safety,home,child,doc_med_003,"Weight-based dosing, avoid duplicate products, do not exceed label maximum.",31
+Postpartum warning signs for mothers?,maternal_health,primary_care,pregnant,doc_mat_002,"Heavy bleeding, foul discharge, fever, or severe abdominal pain.",32
+Asthma emergency signs in a child?,chronic_disease,primary_care,child,doc_chr_003,"Blue lips, unable to speak full sentences, or reliever not helping.",33
+Pills in the bathroom cabinet — safe?,medication_safety,home,general,doc_med_002,"Heat and humidity harm medicines; store cool, dry, and child-safe.",34
+Vaccinate a child with a mild cold?,vaccination,primary_care,child,doc_vac_002,Usually postpone if moderate illness with high fever unless clinician advises otherwise.,35
+Mosquito nets plus what else for malaria?,infectious_disease,community,general,doc_inf_001,Drain stagnant water and test fevers; complete full antimalarial courses.,36
+Safe medicine storage at home?,medication_safety,home,general,doc_med_002,"Original containers, cool dry place, away from children, check expiry dates.",37
+Blood sugar is high — daily habits besides pills?,chronic_disease,primary_care,adult,doc_chr_001,"Balanced meals, physical activity, and glucose monitoring as directed.",38
+Diarrhoea red flags in children?,infectious_disease,community,child,doc_inf_003,"Blood in stool, persistent vomiting, or severe dehydration signs.",39
+Child stunting risk — clinic prevention?,nutrition,primary_care,child,doc_nut_003,"Growth monitoring, varied diet, and programme micronutrient support.",40
+Six-week-old warm to touch — wait or go in?,emergency_triage,hospital,infant,doc_emg_001,Any fever under three months needs urgent paediatric assessment.,41
+First pregnancy — how often clinic visits?,maternal_health,primary_care,pregnant,doc_mat_001,At least eight antenatal contacts with routine screening.,42
+Lifestyle steps for high blood pressure?,chronic_disease,primary_care,adult,doc_chr_002,"Reduce salt, keep healthy weight, exercise moderately, and take medicines consistently.",43
+Can I skip my diabetes medicine if I'm eating healthy and exercising?,chronic_disease,primary_care,adult,doc_chr_001,No — continue prescribed medicines alongside balanced meals and regular activity for diabetes management.,44
+I've had vomiting that won't stop — is that urgent?,chronic_disease,primary_care,adult,doc_chr_001,"Yes — seek urgent care for persistent vomiting, confusion, or dehydration.",45
+"Is checking my blood pressure at home actually useful, or should I wait for my clinic visit?",chronic_disease,primary_care,adult,doc_chr_002,Yes — home blood pressure logs help your clinician adjust your medication at follow-up visits.,46
+Do I need medication if I already eat low salt and exercise daily?,chronic_disease,primary_care,adult,doc_chr_002,Continue prescribed antihypertensive medicine even with lifestyle changes like lower salt intake and daily activity.,47
+My child's lips look bluish during an asthma flare — is that an emergency?,chronic_disease,primary_care,child,doc_chr_003,Yes — blue lips are a red flag requiring emergency care.,48
+"Does my child need the controller inhaler daily, or only during flare-ups?",chronic_disease,primary_care,child,doc_chr_003,"Use the daily controller inhaler as scheduled in the written action plan, alongside the reliever when needed.",49
+Can I stop taking antimalarial medicine once I feel better?,infectious_disease,community,general,doc_inf_001,No — complete the full course of antimalarial medicines if prescribed.,50
+I'm pregnant and live in a malaria area — do I need anything extra?,infectious_disease,community,general,doc_inf_001,Yes — pregnant women in endemic zones should receive intermittent preventive therapy per national guidelines.,51
+Should I go to work if I have a fever?,infectious_disease,community,general,doc_inf_002,No — stay home when febrile to reduce transmission of respiratory viruses.,52
+How long should I wash my hands for?,infectious_disease,community,general,doc_inf_002,Wash hands with soap for at least twenty seconds before eating and after using the toilet.,53
+My baby has diarrhoea — is breastfeeding still okay?,infectious_disease,community,child,doc_inf_003,Yes — continue breastfeeding infants under six months alongside safe drinking water and hygiene practices.,54
+There's blood in my child's stool — should I be worried?,infectious_disease,community,child,doc_inf_003,"Yes — seek care for blood in stool, persistent vomiting, or signs of severe dehydration.",55
+I'm feeling fine — do I still need eight antenatal visits?,maternal_health,primary_care,pregnant,doc_mat_001,"Yes — attend at least eight antenatal contacts for blood pressure, anaemia screening, and fetal growth checks.",56
+My vision has been blurry today — is that something to report?,maternal_health,primary_care,pregnant,doc_mat_001,"Yes — report severe headache, vision changes, or reduced fetal movement promptly.",57
+Is it normal to feel a bit low after giving birth?,maternal_health,primary_care,pregnant,doc_mat_002,"Mild mood changes are common, but persistent low mood needs support referral.",58
+I have a fever and my bleeding smells unusual — should I worry?,maternal_health,primary_care,pregnant,doc_mat_002,"Yes — watch for heavy bleeding, foul-smelling discharge, fever, or severe abdominal pain and seek care.",59
+Does taking vitamin C help with my iron tablets?,maternal_health,primary_care,pregnant,doc_mat_003,Yes — iron supplementation with vitamin C rich foods improves absorption.,60
+My iron levels aren't improving even on supplements — what next?,maternal_health,primary_care,pregnant,doc_mat_003,"Investigate poor response to iron supplementation for hookworm, malaria, or dietary gaps.",61
+Can I give my leftover antibiotics to my sister who has similar symptoms?,medication_safety,primary_care,general,doc_med_001,No — do not share antibiotics or use leftover medicines for new illnesses.,62
+I developed a rash after starting antibiotics — what should I do?,medication_safety,primary_care,general,doc_med_001,"Report rash, swelling, or breathing difficulty as possible allergic reactions.",63
+Is it fine to store my medicines in the bathroom cabinet?,medication_safety,home,general,doc_med_002,"No — store medicines away from heat and humidity, so avoid bathroom cabinets.",64
+What should I do with medicines I no longer need?,medication_safety,home,general,doc_med_002,Dispose of unused medicines through pharmacy take-back programmes where available.,65
+My child's fever has lasted three days — is that a concern?,medication_safety,home,child,doc_med_003,Yes — seek care if fever persists beyond forty-eight hours or the child is lethargic.,66
+Can I use two different cold medicines that both contain paracetamol?,medication_safety,home,child,doc_med_003,No — avoid duplicate products containing the same ingredient to prevent exceeding the maximum daily dose.,67
+Should I wake my baby for night feeds?,nutrition,community,infant,doc_nut_001,Yes — feed on demand including night feeds during exclusive breastfeeding.,68
+When should I start giving my baby solid foods?,nutrition,community,infant,doc_nut_001,Introduce complementary foods at six months while continuing breastfeeding up to two years.,69
+How much of my plate should be vegetables?,nutrition,community,adult,doc_nut_002,Aim for half the plate to be vegetables and fruits.,70
+Does drinking enough water actually matter for my health?,nutrition,community,adult,doc_nut_002,Yes — adequate water intake supports kidney function and medication tolerance.,71
+What foods help prevent micronutrient deficiencies in my child?,nutrition,primary_care,child,doc_nut_003,"Varied diets with legumes, eggs, and green leafy vegetables reduce deficiency risk.",72
+Why does the clinic keep measuring my child's growth?,nutrition,primary_care,child,doc_nut_003,Growth monitoring at clinics identifies faltering early.,73
+My child has a mild fever after vaccination — should I worry?,vaccination,primary_care,child,doc_vac_001,"No — minor fever after vaccination is common, and paracetamol may ease discomfort per clinician advice.",74
+Why do I need to keep the immunisation card?,vaccination,primary_care,child,doc_vac_001,Keep the immunisation card updated for school entry and travel.,75
+My child has a high fever today — should they still get their scheduled vaccine?,vaccination,primary_care,child,doc_vac_002,Postpone vaccination during moderate acute illness with high fever unless the clinician advises otherwise.,76
+We missed a vaccine dose — is it too late now?,vaccination,primary_care,child,doc_vac_002,No — catch-up schedules exist for missed doses.,77
+I got a dirty cut and I'm not sure about my tetanus status — what should I do?,vaccination,primary_care,adult,doc_vac_003,"Get a tetanus booster if status is uncertain after a dirty wound, and clean the wound immediately as first aid.",78
+Can pregnant women get tetanus vaccines?,vaccination,primary_care,adult,doc_vac_003,Yes — pregnant women may receive tetanus toxoid doses per national maternal immunisation policy.,79
+My 2-month-old has a slight fever — can I just monitor at home?,emergency_triage,hospital,infant,doc_emg_001,No — any documented fever in infants under three months requires urgent clinical assessment.,80
+What details should I mention to the triage team?,emergency_triage,hospital,infant,doc_emg_001,"Note feeding changes, lethargy, and rash for the triage team.",81
+Should I drive myself to the hospital if I have severe chest pain?,emergency_triage,hospital,adult,doc_emg_002,No — call emergency services rather than self-transport if symptoms are severe or worsening.,82
+Can I just take aspirin at home for chest pain?,emergency_triage,hospital,adult,doc_emg_002,Aspirin may be indicated only when not contraindicated and advised by emergency protocols — call emergency services first.,83
+My child won't drink any fluids and has sunken eyes — what should I do?,emergency_triage,primary_care,child,doc_emg_003,Escalate to facility care — inability to drink and sunken eyes are signs requiring urgent assessment.,84
+Is oral rehydration enough for mild dehydration?,emergency_triage,primary_care,child,doc_emg_003,"Yes — give oral rehydration for mild dehydration, but escalate if symptoms worsen.",85
+I've had trouble sleeping for over a month — should I see someone?,mental_health_basics,home,adult,doc_men_001,Yes — persistent insomnia beyond four weeks merits primary care review.,86
+Does using my phone before bed affect my sleep?,mental_health_basics,home,adult,doc_men_001,"Reduced evening screens, along with consistent sleep times and a cool dark bedroom, improve sleep quality.",87
+How do I know if my low mood is something to get help for?,mental_health_basics,primary_care,adult,doc_men_002,Seek support when low mood lasts most days for two weeks and interferes with work or relationships.,88
+What kind of support is typically recommended first?,mental_health_basics,primary_care,adult,doc_men_002,"Counselling, peer support, and structured activity scheduling are first-line options in many settings.",89
+My teen is avoiding school because of anxiety — what should I do?,mental_health_basics,school,child,doc_men_003,Refer to counsellors when avoidance behaviour prevents attendance or social participation.,90
+Is caffeine okay for a teen dealing with anxiety?,mental_health_basics,school,child,doc_men_003,"Maintain routines for meals, sleep, and limited caffeine.",91
+Do I need to get my feet and eyes checked even if they look fine?,chronic_disease,primary_care,adult,doc_chr_001,Yes — attend routine foot and eye screening as part of diabetes management.,92
+How often should I check my blood glucose?,chronic_disease,primary_care,adult,doc_chr_001,Monitor blood glucose as directed by your clinician.,93
+Is it okay to just watch my diet and skip check-ups?,chronic_disease,primary_care,adult,doc_chr_001,No — attend routine foot and eye screening alongside diet and medicine adherence.,94
+Does it matter what time of day I take my blood pressure medicine?,chronic_disease,primary_care,adult,doc_chr_002,Yes — take antihypertensive medicines at the same time each day.,95
+"If I want to stop my blood pressure medicine, what should I do first?",chronic_disease,primary_care,adult,doc_chr_002,Never stop antihypertensive medicines abruptly without clinician review.,96
+What can trigger my child's asthma at home?,chronic_disease,primary_care,child,doc_chr_003,"Common triggers include smoke, dust mites, and untreated upper respiratory infections.",97
+My child can't speak in full sentences during an asthma attack — is that serious?,chronic_disease,primary_care,child,doc_chr_003,Yes — inability to speak full sentences is a red flag requiring emergency care.,98
+What if my child's reliever inhaler isn't helping during an attack?,chronic_disease,primary_care,child,doc_chr_003,Reliever not helping is a red flag requiring emergency care.,99
+What can I do at home to prevent malaria?,infectious_disease,community,general,doc_inf_001,Sleep under insecticide-treated nets and eliminate stagnant water near your home.,100
+I have a fever in a malaria area — should I just treat it myself?,infectious_disease,community,general,doc_inf_001,No — seek testing for fever rather than treating it yourself.,101
+Are bed nets really effective against malaria?,infectious_disease,community,general,doc_inf_001,Yes — sleeping under insecticide-treated nets helps prevent malaria.,102
+What's the right way to cough if I don't have a tissue?,infectious_disease,community,general,doc_inf_002,"Cover coughs with your elbow, or use a tissue and dispose of it safely.",103
+Why does covering my cough with my elbow matter?,infectious_disease,community,general,doc_inf_002,Covering coughs with your elbow or a tissue helps reduce transmission of respiratory viruses.,104
+How can I help prevent diarrhoea in my household?,infectious_disease,community,child,doc_inf_003,Use safe drinking water and practice handwashing after nappy changes.,105
+Is handwashing after changing nappies actually necessary?,infectious_disease,community,child,doc_inf_003,Yes — practice handwashing after nappy changes to help prevent diarrhoea.,106
+What should I use for drinking water to prevent diarrhoea?,infectious_disease,community,child,doc_inf_003,Use safe drinking water to help prevent diarrhoea.,107
+Do I need to take any supplements during pregnancy?,maternal_health,primary_care,pregnant,doc_mat_001,Take iron-folic acid supplements as directed during your pregnancy.,108
+What is 'birth preparedness' that my clinic keeps mentioning?,maternal_health,primary_care,pregnant,doc_mat_001,Discussing birth preparedness is part of your antenatal care to plan for delivery.,109
+How can my family help me after giving birth?,maternal_health,primary_care,pregnant,doc_mat_002,"Family members can assist with rest, nutrition, and newborn care tasks.",110
+My breasts are swollen and sore after birth — is that normal?,maternal_health,primary_care,pregnant,doc_mat_002,"Breast engorgement is common after birth, alongside mild mood changes.",111
+Why do I need to be screened for anaemia during pregnancy?,maternal_health,primary_care,pregnant,doc_mat_003,Screening is routine at antenatal visits because anaemia increases fatigue and adverse birth outcomes.,112
+I feel better after two days of antibiotics — can I stop now?,medication_safety,primary_care,general,doc_med_001,"No — finish the full antibiotic course even if symptoms improve early, unless a clinician advises stopping.",113
+Can I stop antibiotics early if a doctor tells me to?,medication_safety,primary_care,general,doc_med_001,Yes — finish the full course unless a clinician advises stopping.,114
+How should I store medicine if I have young kids at home?,medication_safety,home,general,doc_med_002,Keep medicines out of reach of children and store them in original containers away from heat and sunlight.,115
+Should I throw out old medicines even if I haven't opened them?,medication_safety,home,general,doc_med_002,Check expiry dates during household audits and dispose of unused or expired medicines through pharmacy take-back programmes.,116
+How do I know how much paracetamol to give my child?,medication_safety,home,child,doc_med_003,Use weight-based paediatric paracetamol dosing and do not exceed the maximum daily dose printed on the label.,117
+My child seems unusually sleepy along with the fever — should I be concerned?,medication_safety,home,child,doc_med_003,Yes — seek care if the child is lethargic or fever persists beyond forty-eight hours.,118
+My nipples are cracked from breastfeeding — what can help?,nutrition,community,infant,doc_nut_001,Ensure proper latch to help prevent cracked nipples during breastfeeding.,119
+Does breastfeeding actually help protect my baby from illness?,nutrition,community,infant,doc_nut_001,Yes — exclusive breastfeeding for the first six months provides optimal nutrition and immune protection.,120
+Are sugary drinks really that bad for me?,nutrition,community,adult,doc_nut_002,"Limit sugary drinks and ultra-processed snacks, which are linked to obesity and diabetes risk.",121
+How much of my plate should be protein versus grains?,nutrition,community,adult,doc_nut_002,Aim for one quarter whole grains and one quarter protein on your plate.,122
+My child was offered a deworming tablet at the clinic — is that normal?,nutrition,primary_care,child,doc_nut_003,Yes — vitamin A supplementation and deworming may be recommended in high-burden programmes.,123
+Are eggs and leafy vegetables really helpful for my child's diet?,nutrition,primary_care,child,doc_nut_003,"Yes — varied diets with legumes, eggs, and green leafy vegetables reduce deficiency risk.",124
+Which vaccines are part of the standard childhood schedule?,vaccination,primary_care,child,doc_vac_001,"The national expanded programme schedule includes BCG, polio, pentavalent, measles, and yellow fever where indicated.",125
+Does my child need a yellow fever vaccine?,vaccination,primary_care,child,doc_vac_001,Yellow fever vaccination is included in the national schedule where indicated.,126
+My child had a severe allergic reaction to a vaccine before — can they get others?,vaccination,primary_care,child,doc_vac_002,Prior anaphylaxis to a vaccine component requires specialist review before further vaccination.,127
+Are there many reasons a child truly can't get vaccinated?,vaccination,primary_care,child,doc_vac_002,True contraindications are rare.,128
+I'm not up to date on vaccines and got a minor wound — should I still clean it?,vaccination,primary_care,adult,doc_vac_003,Yes — wound cleaning is immediate first aid regardless of vaccination history.,129
+How often do I need a tetanus booster if I haven't had any wounds?,vaccination,primary_care,adult,doc_vac_003,Tetanus boosters are recommended every ten years.,130
+Can I try a home remedy first for my young infant's fever?,emergency_triage,hospital,infant,doc_emg_001,No — do not rely on home remedies alone; proceed to a facility with paediatric capacity.,131
+"Should I go to any hospital, or does it matter for a young infant with fever?",emergency_triage,hospital,infant,doc_emg_001,Proceed to a facility with paediatric capacity for infants under three months with fever.,132
+My chest pain is spreading to my arm — is that significant?,emergency_triage,hospital,adult,doc_emg_002,Yes — pain radiating to the jaw or arm may signal a cardiac emergency.,133
+I have chest pain and I'm having trouble breathing — is that more serious?,emergency_triage,hospital,adult,doc_emg_002,Yes — pain with breathlessness may signal a cardiac emergency and needs emergency services.,134
+My child is producing very little urine — is that a warning sign?,emergency_triage,primary_care,child,doc_emg_003,Yes — very little urine output is a sign requiring escalation to facility care.,135
+My child has diarrhoea and a high fever — does that need facility care?,emergency_triage,primary_care,child,doc_emg_003,Yes — high fever along with diarrhoea warrants facility assessment.,136
+Is there anything I can do right before bed on a stressful day?,mental_health_basics,home,adult,doc_men_001,Brief relaxation breathing before bed can lower arousal after stressful days.,137
+Does having a consistent bedtime actually make a difference?,mental_health_basics,home,adult,doc_men_001,Consistent sleep and wake times improve sleep quality.,138
+What does 'structured activity scheduling' actually mean as a first step?,mental_health_basics,primary_care,adult,doc_men_002,"It's a first-line option that involves scheduling regular activities, alongside counselling and peer support.",139
+My teen says their heart races and they can't breathe when anxious — what can help in the moment?,mental_health_basics,school,child,doc_men_003,"Teach paced breathing for panic symptoms, and validate their feelings without dismissing school stress.",140
+Should I dismiss my teen's stress about school as not a big deal?,mental_health_basics,school,child,doc_men_003,Validate their feelings without dismissing school stress.,141
