@@ -17,6 +17,9 @@ C10-team-tana/
 ├── data/
 │   ├── documents.csv              # 24 synthetic public-health factsheets
 │   └── augmented_train_qa_v2.csv  # 141 grounded question–answer pairs
+├── docs/
+│   ├── Value-led Problem Statement - Domain-Specific Small Language Model for Medical Advice (Team Tana).pdf
+│   └── Team Tana Data Card v2.pdf
 └── scripts/
     ├── retrieval_step.py          # attach a factsheet to each test question
     └── finetune_clinical_slm.py   # QLoRA train + write submission.csv
@@ -24,9 +27,16 @@ C10-team-tana/
 
 Training checkpoints (`clinical_slm_lora/`, `clinical_slm_lora_final/`), `submission.csv`, and `test_questions_with_context.csv` are generated at runtime and are gitignored.
 
+## Cohort documents
+
+| File | Challenge |
+| --- | --- |
+| [Value-led Problem Statement](docs/Value-led%20Problem%20Statement%20-%20Domain-Specific%20Small%20Language%20Model%20for%20Medical%20Advice%20(Team%20Tana).pdf) | Challenge 1 — problem framing |
+| [Team Tana Data Card v2](docs/Team%20Tana%20Data%20Card%20v2.pdf) | Challenge 2 — dataset documentation |
+
 ## Dataset
 
-This repository ships the competition-scale corpus plus Team Tana’s v2 augmentation. All factsheet text is synthetic educational content (CC0-1.0). There are no real patient records.
+This repository ships the competition-scale corpus plus Team Tana’s v2 augmentation, documented in [Team Tana Data Card v2](docs/Team%20Tana%20Data%20Card%20v2.pdf). All factsheet text is synthetic educational content (CC0-1.0). There are no real patient records.
 
 | File | Rows | Role |
 | --- | --- | --- |
@@ -121,6 +131,7 @@ The current default base model is Qwen2.5-1.5B-Instruct. Re-run the Kaggle noteb
 
 ## References
 
+- Team Tana Data Card v2: [docs/Team Tana Data Card v2.pdf](docs/Team%20Tana%20Data%20Card%20v2.pdf)
 - Qwen2.5-1.5B-Instruct: https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct
 - Sentence-Transformers MiniLM: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 - TRI AI Cohort 10 projects: https://aisaturdayslagos.github.io/cohort_structure/cohort10/projects.html
