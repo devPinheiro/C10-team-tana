@@ -19,7 +19,9 @@ C10-team-tana/
 │   └── augmented_train_qa_v2.csv  # 141 grounded question–answer pairs
 ├── docs/
 │   ├── Value-led Problem Statement - Domain-Specific Small Language Model for Medical Advice (Team Tana).pdf
-│   └── Team Tana Data Card v2.pdf
+│   ├── Team Tana Data Card v2.pdf
+│   ├── Impact Statement -  C10 Team Tana.pdf
+│   └── Stakeholder Engagement Plan - C10 Team Tana.pdf
 └── scripts/
     ├── retrieval_step.py          # attach a factsheet to each test question
     └── finetune_clinical_slm.py   # QLoRA train + write submission.csv
@@ -33,6 +35,8 @@ Training checkpoints (`clinical_slm_lora/`, `clinical_slm_lora_final/`), `submis
 | --- | --- |
 | [Value-led Problem Statement](docs/Value-led%20Problem%20Statement%20-%20Domain-Specific%20Small%20Language%20Model%20for%20Medical%20Advice%20(Team%20Tana).pdf) | Challenge 1 — problem framing |
 | [Team Tana Data Card v2](docs/Team%20Tana%20Data%20Card%20v2.pdf) | Challenge 2 — dataset documentation |
+| [Impact Statement](docs/Impact%20Statement%20-%20%20C10%20Team%20Tana.pdf) | Challenge 3 — impact |
+| [Stakeholder Engagement Plan](docs/Stakeholder%20Engagement%20Plan%20-%20C10%20Team%20Tana.pdf) | Challenge 4 — stakeholders |
 
 ## Dataset
 
